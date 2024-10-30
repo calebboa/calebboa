@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @calebboa
-- 👀 I’m interested in programming and football.
-- 🌱 I’m currently learning Business Information Systems - Data Science.
-
+⚡️About me
+- I’m currently learning Business Information Systems - Data Science👨🏾‍💻
+- I’m interested in programming and football.
 
 <!---
 calebboa/calebboa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
