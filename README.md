@@ -4,7 +4,7 @@ Hey, I’m **Caleb** 👋
 
 - 🎓 Studying **Business Informatics – Data Science** 
 - 💼 Dual student  
-- 🧑🏾‍💻 Passionate about **Data Science, AI, and Web Development**   
+- 🧑🏾‍💻 Passionate about **Data Science, AI and Web Development**   
 - ⚽️ Football enthusiast – always up for a match, on the field or in code  
 
 💡 Always curious. Always building. Always learning.  
